@@ -1,0 +1,6 @@
+F:\C#BootCamp\REG LABS\SinglePair\SinglePair\bin\Debug\SinglePair.exe.config
+F:\C#BootCamp\REG LABS\SinglePair\SinglePair\bin\Debug\SinglePair.exe
+F:\C#BootCamp\REG LABS\SinglePair\SinglePair\bin\Debug\SinglePair.pdb
+F:\C#BootCamp\REG LABS\SinglePair\SinglePair\obj\Debug\SinglePair.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\REG LABS\SinglePair\SinglePair\obj\Debug\SinglePair.exe
+F:\C#BootCamp\REG LABS\SinglePair\SinglePair\obj\Debug\SinglePair.pdb

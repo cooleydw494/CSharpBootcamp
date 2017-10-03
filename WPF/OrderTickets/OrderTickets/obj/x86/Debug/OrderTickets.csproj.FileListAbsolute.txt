@@ -1,0 +1,19 @@
+D:\C#BootCamp\VisualCSharpStepByStep 2010\Chapter 24\OrderTickets\OrderTickets\bin\Debug\OrderTickets.exe
+D:\C#BootCamp\VisualCSharpStepByStep 2010\Chapter 24\OrderTickets\OrderTickets\bin\Debug\OrderTickets.pdb
+D:\C#BootCamp\VisualCSharpStepByStep 2010\Chapter 24\OrderTickets\OrderTickets\obj\x86\Debug\OrderTickets.csprojResolveAssemblyReference.cache
+D:\C#BootCamp\VisualCSharpStepByStep 2010\Chapter 24\OrderTickets\OrderTickets\obj\x86\Debug\TicketForm.baml
+D:\C#BootCamp\VisualCSharpStepByStep 2010\Chapter 24\OrderTickets\OrderTickets\obj\x86\Debug\TicketForm.g.cs
+D:\C#BootCamp\VisualCSharpStepByStep 2010\Chapter 24\OrderTickets\OrderTickets\obj\x86\Debug\App.g.cs
+D:\C#BootCamp\VisualCSharpStepByStep 2010\Chapter 24\OrderTickets\OrderTickets\obj\x86\Debug\OrderTickets_MarkupCompile.cache
+D:\C#BootCamp\VisualCSharpStepByStep 2010\Chapter 24\OrderTickets\OrderTickets\obj\x86\Debug\OrderTickets.g.resources
+D:\C#BootCamp\VisualCSharpStepByStep 2010\Chapter 24\OrderTickets\OrderTickets\obj\x86\Debug\OrderTickets.Properties.Resources.resources
+D:\C#BootCamp\VisualCSharpStepByStep 2010\Chapter 24\OrderTickets\OrderTickets\obj\x86\Debug\OrderTickets.csproj.GenerateResource.Cache
+D:\C#BootCamp\VisualCSharpStepByStep 2010\Chapter 24\OrderTickets\OrderTickets\obj\x86\Debug\OrderTickets.csproj.CoreCompileInputs.cache
+D:\C#BootCamp\VisualCSharpStepByStep 2010\Chapter 24\OrderTickets\OrderTickets\obj\x86\Debug\OrderTickets.exe
+D:\C#BootCamp\VisualCSharpStepByStep 2010\Chapter 24\OrderTickets\OrderTickets\obj\x86\Debug\OrderTickets.pdb
+D:\C#BootCamp\VisualCSharpStepByStep 2010\Chapter 24\OrderTickets\OrderTickets\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\C#BootCamp\VisualCSharpStepByStep 2010\Chapter 24\OrderTickets\OrderTickets\obj\x86\Debug\OrderTickets_MarkupCompile.lref
+F:\C#BootCamp\VisualCSharpStepByStep 2010\Chapter 24\OrderTickets\OrderTickets\obj\x86\Debug\OrderTickets.exe
+F:\C#BootCamp\VisualCSharpStepByStep 2010\Chapter 24\OrderTickets\OrderTickets\obj\x86\Debug\OrderTickets.pdb
+F:\C#BootCamp\WPF\OrderTickets\OrderTickets\obj\x86\Debug\OrderTickets.exe
+F:\C#BootCamp\WPF\OrderTickets\OrderTickets\obj\x86\Debug\OrderTickets.pdb

@@ -1,0 +1,15 @@
+F:\C#BootCamp\IO LABS\Midterm\Midterm\bin\Debug\Midterm.exe.config
+F:\C#BootCamp\IO LABS\Midterm\Midterm\bin\Debug\Midterm.exe
+F:\C#BootCamp\IO LABS\Midterm\Midterm\bin\Debug\Midterm.pdb
+F:\C#BootCamp\IO LABS\Midterm\Midterm\obj\Debug\Midterm.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\IO LABS\Midterm\Midterm\obj\Debug\Midterm.exe
+F:\C#BootCamp\IO LABS\Midterm\Midterm\obj\Debug\Midterm.pdb
+F:\C#BootCamp\Midterm\Midterm\bin\Debug\Midterm.exe.config
+F:\C#BootCamp\Midterm\Midterm\obj\Debug\Midterm.exe
+F:\C#BootCamp\Midterm\Midterm\obj\Debug\Midterm.pdb
+F:\C#BootCamp\Midterms\Midterm\Midterm\bin\Debug\Midterm.exe.config
+F:\C#BootCamp\Midterms\Midterm\Midterm\obj\Debug\Midterm.exe
+F:\C#BootCamp\Midterms\Midterm\Midterm\obj\Debug\Midterm.pdb
+F:\C#BootCamp\Midterms\Midterm\Midterm\bin\Debug\Midterm.exe
+F:\C#BootCamp\Midterms\Midterm\Midterm\bin\Debug\Midterm.pdb
+F:\C#BootCamp\Midterms\Midterm\Midterm\obj\Debug\Midterm.csprojResolveAssemblyReference.cache

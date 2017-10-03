@@ -1,0 +1,6 @@
+F:\C#BootCamp\REG LABS\Lab41\Lab41\bin\Debug\Lab41.exe.config
+F:\C#BootCamp\REG LABS\Lab41\Lab41\bin\Debug\Lab41.exe
+F:\C#BootCamp\REG LABS\Lab41\Lab41\bin\Debug\Lab41.pdb
+F:\C#BootCamp\REG LABS\Lab41\Lab41\obj\Debug\Lab41.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\REG LABS\Lab41\Lab41\obj\Debug\Lab41.exe
+F:\C#BootCamp\REG LABS\Lab41\Lab41\obj\Debug\Lab41.pdb

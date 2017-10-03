@@ -1,0 +1,14 @@
+F:\C#BootCamp\WPF\DataGrid\DataGrid\bin\Debug\DataGrid.exe.config
+F:\C#BootCamp\WPF\DataGrid\DataGrid\bin\Debug\DataGrid.exe
+F:\C#BootCamp\WPF\DataGrid\DataGrid\bin\Debug\DataGrid.pdb
+F:\C#BootCamp\WPF\DataGrid\DataGrid\obj\Debug\DataGrid.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\WPF\DataGrid\DataGrid\obj\Debug\MainWindow.g.cs
+F:\C#BootCamp\WPF\DataGrid\DataGrid\obj\Debug\App.g.cs
+F:\C#BootCamp\WPF\DataGrid\DataGrid\obj\Debug\DataGrid_MarkupCompile.cache
+F:\C#BootCamp\WPF\DataGrid\DataGrid\obj\Debug\DataGrid_MarkupCompile.lref
+F:\C#BootCamp\WPF\DataGrid\DataGrid\obj\Debug\MainWindow.baml
+F:\C#BootCamp\WPF\DataGrid\DataGrid\obj\Debug\DataGrid.g.resources
+F:\C#BootCamp\WPF\DataGrid\DataGrid\obj\Debug\DataGrid.Properties.Resources.resources
+F:\C#BootCamp\WPF\DataGrid\DataGrid\obj\Debug\DataGrid.csproj.GenerateResource.Cache
+F:\C#BootCamp\WPF\DataGrid\DataGrid\obj\Debug\DataGrid.exe
+F:\C#BootCamp\WPF\DataGrid\DataGrid\obj\Debug\DataGrid.pdb

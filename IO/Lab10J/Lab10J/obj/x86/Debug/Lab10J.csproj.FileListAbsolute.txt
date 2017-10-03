@@ -1,0 +1,10 @@
+/Volumes/STORE N GO/C#BootCamp/IO LABS/Lab10J/Lab10J/obj/x86/Debug/Lab10J.csproj.CoreCompileInputs.cache
+/Volumes/STORE N GO/C#BootCamp/IO LABS/Lab10J/Lab10J/obj/x86/Debug/Lab10J.exe
+/Volumes/STORE N GO/C#BootCamp/IO LABS/Lab10J/Lab10J/obj/x86/Debug/Lab10J.pdb
+/Volumes/STORE N GO/C#BootCamp/IO LABS/Lab10J/Lab10J/bin/Debug/Lab10J.exe
+/Volumes/STORE N GO/C#BootCamp/IO LABS/Lab10J/Lab10J/bin/Debug/Lab10J.pdb
+F:\C#BootCamp\IO LABS\Lab10J\Lab10J\obj\x86\Debug\Lab10J.exe
+F:\C#BootCamp\IO LABS\Lab10J\Lab10J\obj\x86\Debug\Lab10J.pdb
+F:\C#BootCamp\IO LABS\Lab10J\Lab10J\bin\Debug\Lab10J.exe
+F:\C#BootCamp\IO LABS\Lab10J\Lab10J\bin\Debug\Lab10J.pdb
+F:\C#BootCamp\IO LABS\Lab10J\Lab10J\obj\x86\Debug\Lab10J.csprojResolveAssemblyReference.cache

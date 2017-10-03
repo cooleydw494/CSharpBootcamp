@@ -1,0 +1,27 @@
+﻿<Window x:Class="DataGrid.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataGrid"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="725" Loaded="Window_Loaded">
+    <Grid>
+        <DataGrid AutoGenerateColumns="True" Height="265" HorizontalAlignment="Left" Margin="28,31,0,0"
+                  Name="myDataGrid" VerticalAlignment="Top" Width="654" />
+        <Label x:Name="empNo" Content="Employee #" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="28,320,0,0"/>
+        <Label x:Name="firstName" Content="First Name" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="257,320,0,0"/>
+        <Label x:Name="midInit" Content="Middle Initial" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="28,375,0,0"/>
+        <Label x:Name="lastName" Content="Last Name" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="257,375,0,0"/>
+        <TextBox x:Name="empNoText" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Margin="119,323,0,0"/>
+        <TextBox x:Name="firstNameText" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Margin="343,322,0,0"/>
+        <TextBox x:Name="midInitText" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Margin="119,378,0,0"/>
+        <TextBox x:Name="lastNameText" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Margin="343,378,0,0"/>
+        <Button x:Name="insert" Content="Insert" HorizontalAlignment="Left" Margin="494,323,0,0" VerticalAlignment="Top" Width="75" Click="insert_Click"/>
+        <Button x:Name="update" Content="Update" HorizontalAlignment="Left" Margin="494,378,0,0" VerticalAlignment="Top" Width="75" Click="update_Click"/>
+        <Button x:Name="delete" Content="Delete" HorizontalAlignment="Left" Margin="607,323,0,0" VerticalAlignment="Top" Width="75" Click="delete_Click"/>
+
+
+
+    </Grid>
+</Window>

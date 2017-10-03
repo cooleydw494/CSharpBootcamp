@@ -1,0 +1,12 @@
+F:\C#BootCamp\Lab 23 - params 2\Lab 23 - params 2\bin\Debug\Lab 23 - params 2.exe.config
+F:\C#BootCamp\Lab 23 - params 2\Lab 23 - params 2\bin\Debug\Lab 23 - params 2.exe
+F:\C#BootCamp\Lab 23 - params 2\Lab 23 - params 2\bin\Debug\Lab 23 - params 2.pdb
+F:\C#BootCamp\Lab 23 - params 2\Lab 23 - params 2\obj\Debug\Lab 23 - params 2.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\Lab 23 - params 2\Lab 23 - params 2\obj\Debug\Lab 23 - params 2.exe
+F:\C#BootCamp\Lab 23 - params 2\Lab 23 - params 2\obj\Debug\Lab 23 - params 2.pdb
+F:\C#BootCamp\Lab 23 - maxValOnSteroids\Lab 23 - params 2\bin\Debug\Lab 23 - params 2.exe.config
+F:\C#BootCamp\Lab 23 - maxValOnSteroids\Lab 23 - params 2\obj\Debug\Lab 23 - params 2.exe
+F:\C#BootCamp\Lab 23 - maxValOnSteroids\Lab 23 - params 2\obj\Debug\Lab 23 - params 2.pdb
+F:\C#BootCamp\Lab 23 - maxValOnSteroids\Lab 23 - params 2\bin\Debug\Lab 23 - params 2.exe
+F:\C#BootCamp\Lab 23 - maxValOnSteroids\Lab 23 - params 2\bin\Debug\Lab 23 - params 2.pdb
+F:\C#BootCamp\Lab 23 - maxValOnSteroids\Lab 23 - params 2\obj\Debug\Lab 23 - params 2.csprojResolveAssemblyReference.cache

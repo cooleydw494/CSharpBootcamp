@@ -1,0 +1,12 @@
+F:\C#BootCamp\Lab 15\Lab 15\bin\Debug\Lab 15.exe.config
+F:\C#BootCamp\Lab 15\Lab 15\obj\Debug\Lab 15.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\Lab 15\Lab 15\bin\Debug\Lab 15.exe
+F:\C#BootCamp\Lab 15\Lab 15\bin\Debug\Lab 15.pdb
+F:\C#BootCamp\Lab 15\Lab 15\obj\Debug\Lab 15.exe
+F:\C#BootCamp\Lab 15\Lab 15\obj\Debug\Lab 15.pdb
+F:\C#BootCamp\Lab 15 - Arrays1\Lab 15\bin\Debug\Lab 15.exe.config
+F:\C#BootCamp\Lab 15 - Arrays1\Lab 15\obj\Debug\Lab 15.exe
+F:\C#BootCamp\Lab 15 - Arrays1\Lab 15\obj\Debug\Lab 15.pdb
+F:\C#BootCamp\Lab 15 - Arrays1\Lab 15\bin\Debug\Lab 15.exe
+F:\C#BootCamp\Lab 15 - Arrays1\Lab 15\bin\Debug\Lab 15.pdb
+F:\C#BootCamp\Lab 15 - Arrays1\Lab 15\obj\Debug\Lab 15.csprojResolveAssemblyReference.cache

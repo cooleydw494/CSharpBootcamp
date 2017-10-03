@@ -1,0 +1,6 @@
+F:\C#BootCamp\Lab 18 - Arrays 2\Lab 18 - Arrays 2\bin\Debug\Lab 18 - Arrays 2.exe.config
+F:\C#BootCamp\Lab 18 - Arrays 2\Lab 18 - Arrays 2\bin\Debug\Lab 18 - Arrays 2.exe
+F:\C#BootCamp\Lab 18 - Arrays 2\Lab 18 - Arrays 2\bin\Debug\Lab 18 - Arrays 2.pdb
+F:\C#BootCamp\Lab 18 - Arrays 2\Lab 18 - Arrays 2\obj\Debug\Lab 18 - Arrays 2.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\Lab 18 - Arrays 2\Lab 18 - Arrays 2\obj\Debug\Lab 18 - Arrays 2.exe
+F:\C#BootCamp\Lab 18 - Arrays 2\Lab 18 - Arrays 2\obj\Debug\Lab 18 - Arrays 2.pdb

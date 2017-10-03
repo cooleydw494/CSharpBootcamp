@@ -1,0 +1,6 @@
+F:\C#BootCamp\Lab 17a\Lab 17a\bin\Debug\Lab 17a.exe.config
+F:\C#BootCamp\Lab 17a\Lab 17a\bin\Debug\Lab 17a.exe
+F:\C#BootCamp\Lab 17a\Lab 17a\bin\Debug\Lab 17a.pdb
+F:\C#BootCamp\Lab 17a\Lab 17a\obj\Debug\Lab 17a.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\Lab 17a\Lab 17a\obj\Debug\Lab 17a.exe
+F:\C#BootCamp\Lab 17a\Lab 17a\obj\Debug\Lab 17a.pdb

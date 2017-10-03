@@ -1,0 +1,6 @@
+F:\C#BootCamp\IO LABS\Lab 10\Lab 10\bin\Debug\Lab 10.exe.config
+F:\C#BootCamp\IO LABS\Lab 10\Lab 10\bin\Debug\Lab 10.exe
+F:\C#BootCamp\IO LABS\Lab 10\Lab 10\bin\Debug\Lab 10.pdb
+F:\C#BootCamp\IO LABS\Lab 10\Lab 10\obj\Debug\Lab 10.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\IO LABS\Lab 10\Lab 10\obj\Debug\Lab 10.exe
+F:\C#BootCamp\IO LABS\Lab 10\Lab 10\obj\Debug\Lab 10.pdb

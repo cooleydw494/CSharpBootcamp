@@ -1,0 +1,6 @@
+F:\C#BootCamp\Lab8\Lab8\bin\Debug\Lab8.exe.config
+F:\C#BootCamp\Lab8\Lab8\bin\Debug\Lab8.exe
+F:\C#BootCamp\Lab8\Lab8\bin\Debug\Lab8.pdb
+F:\C#BootCamp\Lab8\Lab8\obj\Debug\Lab8.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\Lab8\Lab8\obj\Debug\Lab8.exe
+F:\C#BootCamp\Lab8\Lab8\obj\Debug\Lab8.pdb

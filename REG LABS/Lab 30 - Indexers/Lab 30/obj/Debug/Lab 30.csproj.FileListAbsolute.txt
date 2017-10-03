@@ -1,0 +1,15 @@
+c:\users\student\documents\visual studio 2015\Projects\Lab 30\Lab 30\bin\Debug\Lab 30.exe.config
+c:\users\student\documents\visual studio 2015\Projects\Lab 30\Lab 30\bin\Debug\Lab 30.exe
+c:\users\student\documents\visual studio 2015\Projects\Lab 30\Lab 30\bin\Debug\Lab 30.pdb
+c:\users\student\documents\visual studio 2015\Projects\Lab 30\Lab 30\obj\Debug\Lab 30.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\Lab 30\Lab 30\obj\Debug\Lab 30.exe
+c:\users\student\documents\visual studio 2015\Projects\Lab 30\Lab 30\obj\Debug\Lab 30.pdb
+F:\C#BootCamp\Lab 30\Lab 30\bin\Debug\Lab 30.exe.config
+F:\C#BootCamp\Lab 30\Lab 30\obj\Debug\Lab 30.exe
+F:\C#BootCamp\Lab 30\Lab 30\obj\Debug\Lab 30.pdb
+F:\C#BootCamp\Lab 30 - Indexers\Lab 30\bin\Debug\Lab 30.exe.config
+F:\C#BootCamp\Lab 30 - Indexers\Lab 30\obj\Debug\Lab 30.exe
+F:\C#BootCamp\Lab 30 - Indexers\Lab 30\obj\Debug\Lab 30.pdb
+F:\C#BootCamp\Lab 30 - Indexers\Lab 30\bin\Debug\Lab 30.exe
+F:\C#BootCamp\Lab 30 - Indexers\Lab 30\bin\Debug\Lab 30.pdb
+F:\C#BootCamp\Lab 30 - Indexers\Lab 30\obj\Debug\Lab 30.csprojResolveAssemblyReference.cache

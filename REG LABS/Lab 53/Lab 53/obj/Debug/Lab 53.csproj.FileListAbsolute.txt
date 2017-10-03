@@ -1,0 +1,6 @@
+F:\C#BootCamp\Lab 53\Lab 53\bin\Debug\Lab 53.exe.config
+F:\C#BootCamp\Lab 53\Lab 53\bin\Debug\Lab 53.exe
+F:\C#BootCamp\Lab 53\Lab 53\bin\Debug\Lab 53.pdb
+F:\C#BootCamp\Lab 53\Lab 53\obj\Debug\Lab 53.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\Lab 53\Lab 53\obj\Debug\Lab 53.exe
+F:\C#BootCamp\Lab 53\Lab 53\obj\Debug\Lab 53.pdb

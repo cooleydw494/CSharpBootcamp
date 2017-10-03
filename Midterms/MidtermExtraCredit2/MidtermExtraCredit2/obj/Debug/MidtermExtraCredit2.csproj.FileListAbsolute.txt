@@ -1,0 +1,9 @@
+F:\C#BootCamp\IO LABS\MidtermExtraCredit2\MidtermExtraCredit2\bin\Debug\MidtermExtraCredit2.exe.config
+F:\C#BootCamp\IO LABS\MidtermExtraCredit2\MidtermExtraCredit2\bin\Debug\MidtermExtraCredit2.exe
+F:\C#BootCamp\IO LABS\MidtermExtraCredit2\MidtermExtraCredit2\bin\Debug\MidtermExtraCredit2.pdb
+F:\C#BootCamp\IO LABS\MidtermExtraCredit2\MidtermExtraCredit2\obj\Debug\MidtermExtraCredit2.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\IO LABS\MidtermExtraCredit2\MidtermExtraCredit2\obj\Debug\MidtermExtraCredit2.exe
+F:\C#BootCamp\IO LABS\MidtermExtraCredit2\MidtermExtraCredit2\obj\Debug\MidtermExtraCredit2.pdb
+F:\C#BootCamp\Midterms\MidtermExtraCredit2\MidtermExtraCredit2\bin\Debug\MidtermExtraCredit2.exe.config
+F:\C#BootCamp\Midterms\MidtermExtraCredit2\MidtermExtraCredit2\obj\Debug\MidtermExtraCredit2.exe
+F:\C#BootCamp\Midterms\MidtermExtraCredit2\MidtermExtraCredit2\obj\Debug\MidtermExtraCredit2.pdb

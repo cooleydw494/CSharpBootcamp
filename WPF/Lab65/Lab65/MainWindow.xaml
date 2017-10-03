@@ -1,0 +1,34 @@
+﻿<Window x:Class="Lab65.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab65"
+        mc:Ignorable="d"
+        Title="Not-So-Magical Eight Ball" Height="350" Width="525">
+    <Grid AllowDrop="False">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush>
+                <LinearGradientBrush.GradientStops>
+                    <GradientStop Offset="0.00" Color="Black" />
+                    <GradientStop Offset="0.50" Color="Blue" />
+                    <GradientStop Offset="1.00" Color="Coral" />
+                </LinearGradientBrush.GradientStops>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TextBox x:Name="textQuestion" TextAlignment="Center" FontSize="25" Grid.Row="0" TextWrapping="Wrap" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="25,25,25,25">
+            [Place Question Here]
+        </TextBox>
+        <Button x:Name="cmdAnswer" Grid.Row="1" Content="Ask the Eight Ball" Width="150" Height="25" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,0" Click="cmdAnswer_Click" />
+        <TextBox x:Name="textAnswer" IsReadOnly="True" TextAlignment="Center" FontSize="25" Grid.Row="2" HorizontalAlignment="Stretch" TextWrapping="Wrap" VerticalAlignment="Stretch" Margin="25,25,25,25">
+            [Answer Will Appear Here]
+        </TextBox>
+
+
+    </Grid>
+</Window>

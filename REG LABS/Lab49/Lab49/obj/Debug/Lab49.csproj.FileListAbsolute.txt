@@ -1,0 +1,6 @@
+F:\C#BootCamp\REG LABS\Lab49\Lab49\bin\Debug\Lab49.exe.config
+F:\C#BootCamp\REG LABS\Lab49\Lab49\obj\Debug\Lab49.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\REG LABS\Lab49\Lab49\bin\Debug\Lab49.exe
+F:\C#BootCamp\REG LABS\Lab49\Lab49\bin\Debug\Lab49.pdb
+F:\C#BootCamp\REG LABS\Lab49\Lab49\obj\Debug\Lab49.exe
+F:\C#BootCamp\REG LABS\Lab49\Lab49\obj\Debug\Lab49.pdb

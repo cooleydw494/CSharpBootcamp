@@ -1,0 +1,6 @@
+F:\C#BootCamp\Lab 20 - Arrays 4\Lab 20 - Arrays 4\bin\Debug\Lab 20 - Arrays 4.exe.config
+F:\C#BootCamp\Lab 20 - Arrays 4\Lab 20 - Arrays 4\bin\Debug\Lab 20 - Arrays 4.exe
+F:\C#BootCamp\Lab 20 - Arrays 4\Lab 20 - Arrays 4\bin\Debug\Lab 20 - Arrays 4.pdb
+F:\C#BootCamp\Lab 20 - Arrays 4\Lab 20 - Arrays 4\obj\Debug\Lab 20 - Arrays 4.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\Lab 20 - Arrays 4\Lab 20 - Arrays 4\obj\Debug\Lab 20 - Arrays 4.exe
+F:\C#BootCamp\Lab 20 - Arrays 4\Lab 20 - Arrays 4\obj\Debug\Lab 20 - Arrays 4.pdb

@@ -1,0 +1,9 @@
+F:\C#BootCamp\Lab 42 - classes and interfaces\Lab 42 - classes and interfaces\bin\Debug\Lab 42 - classes and interfaces.exe.config
+F:\C#BootCamp\Lab 42 - classes and interfaces\Lab 42 - classes and interfaces\bin\Debug\Lab 42 - classes and interfaces.exe
+F:\C#BootCamp\Lab 42 - classes and interfaces\Lab 42 - classes and interfaces\bin\Debug\Lab 42 - classes and interfaces.pdb
+F:\C#BootCamp\Lab 42 - classes and interfaces\Lab 42 - classes and interfaces\obj\Debug\Lab 42 - classes and interfaces.exe
+F:\C#BootCamp\Lab 42 - classes and interfaces\Lab 42 - classes and interfaces\obj\Debug\Lab 42 - classes and interfaces.pdb
+F:\C#BootCamp\Lab 42 - classes and interfaces\Lab 42 - classes and interfaces\obj\Debug\Lab 42.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\REG LABS\Lab 42 - classes and interfaces\Lab 42 - classes and interfaces\bin\Debug\Lab 42 - classes and interfaces.exe.config
+F:\C#BootCamp\REG LABS\Lab 42 - classes and interfaces\Lab 42 - classes and interfaces\obj\Debug\Lab 42 - classes and interfaces.exe
+F:\C#BootCamp\REG LABS\Lab 42 - classes and interfaces\Lab 42 - classes and interfaces\obj\Debug\Lab 42 - classes and interfaces.pdb

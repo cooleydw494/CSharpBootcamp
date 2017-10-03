@@ -1,0 +1,12 @@
+F:\C#BootCamp\Lab 47\Lab 47\bin\Debug\Lab 47.exe.config
+F:\C#BootCamp\Lab 47\Lab 47\bin\Debug\Lab 47.exe
+F:\C#BootCamp\Lab 47\Lab 47\bin\Debug\Lab 47.pdb
+F:\C#BootCamp\Lab 47\Lab 47\obj\Debug\Lab 47.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\Lab 47\Lab 47\obj\Debug\Lab 47.exe
+F:\C#BootCamp\Lab 47\Lab 47\obj\Debug\Lab 47.pdb
+F:\C#BootCamp\Lab 47 - Partial Class\Lab 47\bin\Debug\Lab 47.exe.config
+F:\C#BootCamp\Lab 47 - Partial Class\Lab 47\obj\Debug\Lab 47.exe
+F:\C#BootCamp\Lab 47 - Partial Class\Lab 47\obj\Debug\Lab 47.pdb
+F:\C#BootCamp\Lab 47 - Partial Class\Lab 47\bin\Debug\Lab 47.exe
+F:\C#BootCamp\Lab 47 - Partial Class\Lab 47\bin\Debug\Lab 47.pdb
+F:\C#BootCamp\Lab 47 - Partial Class\Lab 47\obj\Debug\Lab 47.csprojResolveAssemblyReference.cache

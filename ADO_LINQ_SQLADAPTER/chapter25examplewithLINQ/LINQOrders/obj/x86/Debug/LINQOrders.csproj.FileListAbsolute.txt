@@ -1,0 +1,15 @@
+E:\MidlandsTechnicalCollege\Resources\VisualCSharpStepByStep\Chapter 25\LINQOrders\LINQOrders\bin\Debug\LINQOrders.exe
+E:\MidlandsTechnicalCollege\Resources\VisualCSharpStepByStep\Chapter 25\LINQOrders\LINQOrders\bin\Debug\LINQOrders.pdb
+E:\MidlandsTechnicalCollege\Resources\VisualCSharpStepByStep\Chapter 25\LINQOrders\LINQOrders\obj\x86\Debug\LINQOrders.exe
+E:\MidlandsTechnicalCollege\Resources\VisualCSharpStepByStep\Chapter 25\LINQOrders\LINQOrders\obj\x86\Debug\LINQOrders.pdb
+E:\MidlandsTechnicalCollege\Resources\VisualCSharpStepByStep\Chapter 25\LINQOrders\LINQOrders\obj\x86\Debug\LINQOrders.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\VisualCSharpStepByStep 2010\Chapter 25\LINQOrders\LINQOrders\obj\x86\Debug\LINQOrders.exe
+F:\C#BootCamp\VisualCSharpStepByStep 2010\Chapter 25\LINQOrders\LINQOrders\obj\x86\Debug\LINQOrders.pdb
+F:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\chapter25examplewithLINQ\LINQOrders\obj\x86\Debug\LINQOrders.exe
+F:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\chapter25examplewithLINQ\LINQOrders\obj\x86\Debug\LINQOrders.pdb
+D:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\chapter25examplewithLINQ\LINQOrders\bin\Debug\LINQOrders.exe
+D:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\chapter25examplewithLINQ\LINQOrders\bin\Debug\LINQOrders.pdb
+D:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\chapter25examplewithLINQ\LINQOrders\obj\x86\Debug\LINQOrders.csprojResolveAssemblyReference.cache
+D:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\chapter25examplewithLINQ\LINQOrders\obj\x86\Debug\LINQOrders.csproj.CoreCompileInputs.cache
+D:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\chapter25examplewithLINQ\LINQOrders\obj\x86\Debug\LINQOrders.exe
+D:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\chapter25examplewithLINQ\LINQOrders\obj\x86\Debug\LINQOrders.pdb

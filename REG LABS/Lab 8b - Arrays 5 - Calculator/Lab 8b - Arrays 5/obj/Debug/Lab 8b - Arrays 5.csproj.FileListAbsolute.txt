@@ -1,0 +1,12 @@
+F:\C#BootCamp\Lab 8b - Arrays 5\Lab 8b - Arrays 5\bin\Debug\Lab 8b - Arrays 5.exe.config
+F:\C#BootCamp\Lab 8b - Arrays 5\Lab 8b - Arrays 5\bin\Debug\Lab 8b - Arrays 5.exe
+F:\C#BootCamp\Lab 8b - Arrays 5\Lab 8b - Arrays 5\bin\Debug\Lab 8b - Arrays 5.pdb
+F:\C#BootCamp\Lab 8b - Arrays 5\Lab 8b - Arrays 5\obj\Debug\Lab 8b - Arrays 5.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\Lab 8b - Arrays 5\Lab 8b - Arrays 5\obj\Debug\Lab 8b - Arrays 5.exe
+F:\C#BootCamp\Lab 8b - Arrays 5\Lab 8b - Arrays 5\obj\Debug\Lab 8b - Arrays 5.pdb
+F:\C#BootCamp\Lab 8b - Arrays 5 - Calculator\Lab 8b - Arrays 5\bin\Debug\Lab 8b - Arrays 5.exe.config
+F:\C#BootCamp\Lab 8b - Arrays 5 - Calculator\Lab 8b - Arrays 5\obj\Debug\Lab 8b - Arrays 5.exe
+F:\C#BootCamp\Lab 8b - Arrays 5 - Calculator\Lab 8b - Arrays 5\obj\Debug\Lab 8b - Arrays 5.pdb
+F:\C#BootCamp\Lab 8b - Arrays 5 - Calculator\Lab 8b - Arrays 5\bin\Debug\Lab 8b - Arrays 5.exe
+F:\C#BootCamp\Lab 8b - Arrays 5 - Calculator\Lab 8b - Arrays 5\bin\Debug\Lab 8b - Arrays 5.pdb
+F:\C#BootCamp\Lab 8b - Arrays 5 - Calculator\Lab 8b - Arrays 5\obj\Debug\Lab 8b - Arrays 5.csprojResolveAssemblyReference.cache

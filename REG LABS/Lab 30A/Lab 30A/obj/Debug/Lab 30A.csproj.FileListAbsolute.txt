@@ -1,0 +1,6 @@
+F:\C#BootCamp\Lab 30A\Lab 30A\bin\Debug\Lab 30A.exe.config
+F:\C#BootCamp\Lab 30A\Lab 30A\bin\Debug\Lab 30A.exe
+F:\C#BootCamp\Lab 30A\Lab 30A\bin\Debug\Lab 30A.pdb
+F:\C#BootCamp\Lab 30A\Lab 30A\obj\Debug\Lab 30A.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\Lab 30A\Lab 30A\obj\Debug\Lab 30A.exe
+F:\C#BootCamp\Lab 30A\Lab 30A\obj\Debug\Lab 30A.pdb

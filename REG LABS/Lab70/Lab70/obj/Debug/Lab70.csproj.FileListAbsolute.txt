@@ -1,0 +1,6 @@
+F:\C#BootCamp\REG LABS\Lab70\Lab70\bin\Debug\Lab70.exe.config
+F:\C#BootCamp\REG LABS\Lab70\Lab70\bin\Debug\Lab70.exe
+F:\C#BootCamp\REG LABS\Lab70\Lab70\bin\Debug\Lab70.pdb
+F:\C#BootCamp\REG LABS\Lab70\Lab70\obj\Debug\Lab70.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\REG LABS\Lab70\Lab70\obj\Debug\Lab70.exe
+F:\C#BootCamp\REG LABS\Lab70\Lab70\obj\Debug\Lab70.pdb

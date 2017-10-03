@@ -1,0 +1,13 @@
+F:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\DBLab01\DBLab01\bin\Debug\DBLab01.exe.config
+F:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\DBLab01\DBLab01\obj\Debug\DBLab01.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\DBLab01\DBLab01\bin\Debug\DBLab01.exe
+F:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\DBLab01\DBLab01\bin\Debug\DBLab01.pdb
+F:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\DBLab01\DBLab01\obj\Debug\DBLab01.exe
+F:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\DBLab01\DBLab01\obj\Debug\DBLab01.pdb
+D:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\DBLab01\DBLab01\bin\Debug\DBLab01.exe.config
+D:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\DBLab01\DBLab01\bin\Debug\DBLab01.exe
+D:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\DBLab01\DBLab01\bin\Debug\DBLab01.pdb
+D:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\DBLab01\DBLab01\obj\Debug\DBLab01.csprojResolveAssemblyReference.cache
+D:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\DBLab01\DBLab01\obj\Debug\DBLab01.csproj.CoreCompileInputs.cache
+D:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\DBLab01\DBLab01\obj\Debug\DBLab01.exe
+D:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\DBLab01\DBLab01\obj\Debug\DBLab01.pdb

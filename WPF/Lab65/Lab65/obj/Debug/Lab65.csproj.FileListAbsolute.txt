@@ -1,0 +1,14 @@
+F:\C#BootCamp\WPF\Lab65\Lab65\bin\Debug\Lab65.exe.config
+F:\C#BootCamp\WPF\Lab65\Lab65\obj\Debug\Lab65.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\WPF\Lab65\Lab65\obj\Debug\App.g.cs
+F:\C#BootCamp\WPF\Lab65\Lab65\obj\Debug\Lab65_MarkupCompile.cache
+F:\C#BootCamp\WPF\Lab65\Lab65\bin\Debug\Lab65.exe
+F:\C#BootCamp\WPF\Lab65\Lab65\bin\Debug\Lab65.pdb
+F:\C#BootCamp\WPF\Lab65\Lab65\obj\Debug\MainWindow.g.cs
+F:\C#BootCamp\WPF\Lab65\Lab65\obj\Debug\Lab65_MarkupCompile.lref
+F:\C#BootCamp\WPF\Lab65\Lab65\obj\Debug\MainWindow.baml
+F:\C#BootCamp\WPF\Lab65\Lab65\obj\Debug\Lab65.g.resources
+F:\C#BootCamp\WPF\Lab65\Lab65\obj\Debug\Lab65.Properties.Resources.resources
+F:\C#BootCamp\WPF\Lab65\Lab65\obj\Debug\Lab65.csproj.GenerateResource.Cache
+F:\C#BootCamp\WPF\Lab65\Lab65\obj\Debug\Lab65.exe
+F:\C#BootCamp\WPF\Lab65\Lab65\obj\Debug\Lab65.pdb

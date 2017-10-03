@@ -1,0 +1,6 @@
+F:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\DBLab01LINQ\DBLab01LINQ\bin\Debug\DBLab01LINQ.exe.config
+F:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\DBLab01LINQ\DBLab01LINQ\bin\Debug\DBLab01LINQ.exe
+F:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\DBLab01LINQ\DBLab01LINQ\bin\Debug\DBLab01LINQ.pdb
+F:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\DBLab01LINQ\DBLab01LINQ\obj\Debug\DBLab01LINQ.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\DBLab01LINQ\DBLab01LINQ\obj\Debug\DBLab01LINQ.exe
+F:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\DBLab01LINQ\DBLab01LINQ\obj\Debug\DBLab01LINQ.pdb

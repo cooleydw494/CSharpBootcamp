@@ -1,0 +1,6 @@
+F:\C#BootCamp\Lab 21 - use params\Lab 21 - use params\bin\Debug\Lab 21 - use params.exe.config
+F:\C#BootCamp\Lab 21 - use params\Lab 21 - use params\bin\Debug\Lab 21 - use params.exe
+F:\C#BootCamp\Lab 21 - use params\Lab 21 - use params\bin\Debug\Lab 21 - use params.pdb
+F:\C#BootCamp\Lab 21 - use params\Lab 21 - use params\obj\Debug\Lab 21 - use params.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\Lab 21 - use params\Lab 21 - use params\obj\Debug\Lab 21 - use params.exe
+F:\C#BootCamp\Lab 21 - use params\Lab 21 - use params\obj\Debug\Lab 21 - use params.pdb

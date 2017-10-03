@@ -1,0 +1,5 @@
+/Volumes/STORE N GO/C#BootCamp/IO LABS/Lab10K/Lab10K/obj/x86/Debug/Lab10K.csproj.CoreCompileInputs.cache
+/Volumes/STORE N GO/C#BootCamp/IO LABS/Lab10K/Lab10K/obj/x86/Debug/Lab10K.exe
+/Volumes/STORE N GO/C#BootCamp/IO LABS/Lab10K/Lab10K/obj/x86/Debug/Lab10K.pdb
+/Volumes/STORE N GO/C#BootCamp/IO LABS/Lab10K/Lab10K/bin/Debug/Lab10K.exe
+/Volumes/STORE N GO/C#BootCamp/IO LABS/Lab10K/Lab10K/bin/Debug/Lab10K.pdb

@@ -1,0 +1,9 @@
+F:\C#BootCamp\Lab 12\Lab 12\bin\Debug\Lab 12.exe.config
+F:\C#BootCamp\Lab 12\Lab 12\bin\Debug\Lab 12.exe
+F:\C#BootCamp\Lab 12\Lab 12\bin\Debug\Lab 12.pdb
+F:\C#BootCamp\Lab 12\Lab 12\obj\Debug\Lab 12.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\Lab 12\Lab 12\obj\Debug\Lab 12.exe
+F:\C#BootCamp\Lab 12\Lab 12\obj\Debug\Lab 12.pdb
+F:\C#BootCamp\Lab 12 - DateTime\Lab 12\bin\Debug\Lab 12.exe.config
+F:\C#BootCamp\Lab 12 - DateTime\Lab 12\obj\Debug\Lab 12.exe
+F:\C#BootCamp\Lab 12 - DateTime\Lab 12\obj\Debug\Lab 12.pdb

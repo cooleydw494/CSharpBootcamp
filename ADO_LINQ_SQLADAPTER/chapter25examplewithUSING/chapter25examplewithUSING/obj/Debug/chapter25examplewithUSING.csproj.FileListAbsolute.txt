@@ -1,0 +1,1 @@
+F:\C#BootCamp\Intro SQL for Techhire2017\my visual studio labs\chapter25examplewithUSING\chapter25examplewithUSING\bin\Debug\chapter25examplewithUSING.exe.config

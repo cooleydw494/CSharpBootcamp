@@ -1,0 +1,6 @@
+F:\C#BootCamp\InheritanceLab01\InheritanceLab01\bin\Debug\InheritanceLab01.exe.config
+F:\C#BootCamp\InheritanceLab01\InheritanceLab01\bin\Debug\InheritanceLab01.exe
+F:\C#BootCamp\InheritanceLab01\InheritanceLab01\bin\Debug\InheritanceLab01.pdb
+F:\C#BootCamp\InheritanceLab01\InheritanceLab01\obj\Debug\InheritanceLab01.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\InheritanceLab01\InheritanceLab01\obj\Debug\InheritanceLab01.exe
+F:\C#BootCamp\InheritanceLab01\InheritanceLab01\obj\Debug\InheritanceLab01.pdb

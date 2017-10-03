@@ -1,0 +1,12 @@
+F:\C#BootCamp\Lab 46A\Lab 46A\bin\Debug\Lab 46A.exe.config
+F:\C#BootCamp\Lab 46A\Lab 46A\bin\Debug\Lab 46A.exe
+F:\C#BootCamp\Lab 46A\Lab 46A\bin\Debug\Lab 46A.pdb
+F:\C#BootCamp\Lab 46A\Lab 46A\obj\Debug\Lab 46A.csprojResolveAssemblyReference.cache
+F:\C#BootCamp\Lab 46A\Lab 46A\obj\Debug\Lab 46A.exe
+F:\C#BootCamp\Lab 46A\Lab 46A\obj\Debug\Lab 46A.pdb
+F:\C#BootCamp\REG LABS\Lab 46A\Lab 46A\bin\Debug\Lab 46A.exe.config
+F:\C#BootCamp\REG LABS\Lab 46A\Lab 46A\obj\Debug\Lab 46A.exe
+F:\C#BootCamp\REG LABS\Lab 46A\Lab 46A\obj\Debug\Lab 46A.pdb
+F:\C#BootCamp\REG LABS\Lab 46A\Lab 46A\bin\Debug\Lab 46A.exe
+F:\C#BootCamp\REG LABS\Lab 46A\Lab 46A\bin\Debug\Lab 46A.pdb
+F:\C#BootCamp\REG LABS\Lab 46A\Lab 46A\obj\Debug\Lab 46A.csprojResolveAssemblyReference.cache
